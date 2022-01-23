@@ -2,8 +2,8 @@
 
 Code accompanying my illustrated Data structures [video series on YouTube](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 
-* [What are Data Structures?](://www.youtube.com/watch?v=9rhT3P1MDHk) — [Watch Video](https://www.youtube.com/watch?v=9rhT3P1MDHk)
-* [Arrays](./array.js) — [Watch Video](https://www.youtube.com/watch?v=QJNwK2uJyGs)
+* [What are Data Structures?](://www.youtube.com/watch?v=9rhT3P1MDHk) — [**Watch Video**](https://www.youtube.com/watch?v=9rhT3P1MDHk)
+* [Arrays](./array.js) — [**Watch Video**](https://www.youtube.com/watch?v=QJNwK2uJyGs)
 * [Linked Lists](./linked-lists.js) — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
 * Stacks — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
 * Queues — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
