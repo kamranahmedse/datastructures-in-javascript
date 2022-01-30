@@ -4,7 +4,7 @@ Code accompanying my illustrated Data structures [video series on YouTube](https
 
 * [What are Data Structures?](://www.youtube.com/watch?v=9rhT3P1MDHk) — [**Watch Video**](https://www.youtube.com/watch?v=9rhT3P1MDHk)
 * [Arrays](./array.js) — [**Watch Video**](https://www.youtube.com/watch?v=QJNwK2uJyGs)
-* [Linked Lists](./linked-lists.js) — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* [Linked Lists](./linked-lists.js) — [**Watch Video**](https://www.youtube.com/watch?v=odW9FU8jPRQ)
 * Stacks — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
 * Queues — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
 * Heaps — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
