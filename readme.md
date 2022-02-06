@@ -2,15 +2,15 @@
 
 Code accompanying my illustrated Data structures [video series on YouTube](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 
-* [What are Data Structures?](://www.youtube.com/watch?v=9rhT3P1MDHk) — [**Watch Video**](https://www.youtube.com/watch?v=9rhT3P1MDHk)
-* [Arrays](./array.js) — [**Watch Video**](https://www.youtube.com/watch?v=QJNwK2uJyGs)
-* [Linked Lists](./linked-lists.js) — [**Watch Video**](https://www.youtube.com/watch?v=odW9FU8jPRQ)
-* Stacks — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
-* Queues — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
-* Heaps — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
-* Hash Tables — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
-* Trees — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
-* Graphs — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* [What are Data Structures?](https://www.youtube.com/watch?v=9rhT3P1MDHk) — [**Watch Video**](https://www.youtube.com/watch?v=9rhT3P1MDHk)
+* [Array](./array.js) — [**Watch Video**](https://www.youtube.com/watch?v=QJNwK2uJyGs)
+* [Linked List](./linked-list.js) — [**Watch Video**](https://www.youtube.com/watch?v=odW9FU8jPRQ)
+* [Stack](./stack.js) — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* Queue — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* Heap — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* Hash Table — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* Tree — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* Graph — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
 
 ## Bonus Videos
 
