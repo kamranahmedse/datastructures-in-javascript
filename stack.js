@@ -1,5 +1,6 @@
 class Stack {
   constructor() {
+    // We can also use linked list here
     this.items = [];
   }
 
