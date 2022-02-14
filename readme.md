@@ -6,7 +6,7 @@ Code accompanying my illustrated Data structures [video series on YouTube](https
 * [Array](./array.js) — [**Watch Video**](https://www.youtube.com/watch?v=QJNwK2uJyGs)
 * [Linked List](./linked-list.js) — [**Watch Video**](https://www.youtube.com/watch?v=odW9FU8jPRQ)
 * [Stack](./stack.js) — [**Watch Video**](https://www.youtube.com/watch?v=I5lq6sCuABE)
-* [Queue](./queue.js) — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* [Queue](./queue.js) — [**Watch Video**](https://www.youtube.com/watch?v=mDCi1lXd9hc)
 * Heap — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
 * Hash Table — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
 * Tree — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
