@@ -8,7 +8,7 @@ Code accompanying my illustrated Data structures [video series on YouTube](https
 * [Stack](./stack.js) — [**Watch Video**](https://www.youtube.com/watch?v=I5lq6sCuABE)
 * [Queue](./queue.js) — [**Watch Video**](https://www.youtube.com/watch?v=mDCi1lXd9hc)
 * [Hash Table](./hashtable.js) — [**Watch Video**](https://www.youtube.com/watch?v=jalSiaIi8j4)
-* Tree — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* [Tree](./tree.js) — [**Watch Video**](https://www.youtube.com/watch?v=S2W3SXGPVyU)
 * Heap — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
 * Graph — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
 
