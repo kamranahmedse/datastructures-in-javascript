@@ -10,7 +10,7 @@ Code accompanying my illustrated Data structures [video series on YouTube](https
 * [Hash Table](./hashtable.js) — [**Watch Video**](https://www.youtube.com/watch?v=jalSiaIi8j4)
 * [Tree](./tree.js) — [**Watch Video**](https://www.youtube.com/watch?v=S2W3SXGPVyU)
 * [Heap](./heap.js) — [**Watch Video**](https://www.youtube.com/watch?v=F_r0sJ1RqWk)
-* Graph — [Soon on YouTube](https://www.youtube.com/theroadmap?sub_confirmation=1)
+* [Graph](./graph.js) — [**Watch Video**](https://www.youtube.com/watch?v=0sQE8zKhad0)
 
 ## Bonus Videos
 
